@@ -1,0 +1,8 @@
+.driehoek {
+    width: 0;
+    height: 0;
+    border-top: 200px solid transparent;
+    border-left:  200px solid green;
+    border-right:200px solid transparent;
+    border-bottom: 200px solid transparent;
+}
